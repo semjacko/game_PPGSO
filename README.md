@@ -1,3 +1,3 @@
 # game_PPGSO
-
-## Pre spustenie stačí stiahnuť adresár `executable` a spustiť súbor `Nature.exe` 
+# Predmet: Princípy počítačovej grafiky a spracovania obrazu
+## Pre spustenie stačí stiahnuť adresár `executable` a v ňom spustiť súbor `Nature.exe` 
